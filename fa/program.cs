@@ -116,6 +116,7 @@ namespace fans
                         {
                             return false;
                         }
+                    }
                 }
                 return current.IsAcceptState;
     }
